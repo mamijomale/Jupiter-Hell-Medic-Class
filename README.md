@@ -1,4 +1,4 @@
-# medicclass
+# Jupiter Hell Medic Class
 The medic class mod for Jupiter Hell
 
 This version of the mod is for those who wants to mod the game if they don't have the game on Steam, or if the Steam workshop doesn't work.
