@@ -6,7 +6,7 @@ This version of the mod is for those who wants to mod the game if they don't hav
 HOW TO INSTALL :
 
 1) Just make sure a folder named "mods" exists in the repertory in which "jh.exe" is. If not, just create it.
-2) Unzip the file and make sure the folder "medicclass" contained within the script is inside the "mods" folder without any other sub-folder.
+2) Unzip the file and make sure the folder "medicclass" contained within the zip is inside the "mods" folder without any other sub-folder.
 The path to the file "main.lua" should be from your game repertory "mods/medicclass/main.lua"
 3) Enjoy the mod.
    
