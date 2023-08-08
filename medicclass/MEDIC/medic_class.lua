@@ -794,11 +794,13 @@ register_blueprint "moreClasses_virus"
 							end
 						end
 					end
-					if target.health.current == -1000 then
-						world:mark_destroy( self )
-					end
-					if target.health.current <= 0 then
-						target.health.current = -1000
+					if target.health then
+						if target.health.current == -1000 then
+							world:mark_destroy( self )
+						end
+						if target.health.current <= 0 then
+							target.health.current = -1000
+						end
 					end
 				end
 				return 100
